@@ -1,2 +1,2 @@
-# use-memo-pokemon
+# reactive-pokemon
 Created with CodeSandbox
